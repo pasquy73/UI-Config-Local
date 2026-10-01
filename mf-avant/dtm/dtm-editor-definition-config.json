@@ -1,6 +1,6 @@
 {
   "name": "DTM Editor Definition",
   "mf": "demf-dtm-editor-definition",
-  "api": "https://pem-api.avant.digital-enabler.eng.it/api/v1",
+  "api": "http://localhost:3000/api/v1",
   "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it"
 }
