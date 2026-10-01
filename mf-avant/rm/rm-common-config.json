@@ -1,0 +1,48 @@
+{
+  "name":"RuleManager",
+  "mf":"demf-rule-manager",
+  "assets": [
+     {
+      "type": "kpi",
+      "name": "KPI Manager",
+      "icon": "mdi-gauge"
+    },
+    {
+      "type": "flow",
+      "name": "Mashup Flow",
+      "icon": "mdi-file-tree"
+    },
+    {
+      "type": "ngsi-ld",
+      "name": "NGSI ENTITY",
+      "icon": "mdi-vector-circle"
+    }
+  ],
+  "actions": [
+    {
+      "type": "email",
+      "name": "E-Mail",
+      "icon": "mdi-email"
+    },
+    {
+      "type": "webhook",
+      "name": "Webhook",
+      "icon": "mdi-webhook"
+    },
+    {
+      "type": "kafka",
+      "name": "Kafka",
+      "icon": "mdi-apache-kafka"
+    },
+    {
+      "type": "telegram",
+      "name": "Telegram",
+      "icon": "mdi-send-circle"
+    },
+    {
+      "type": "sse",
+      "name": "SSE",
+      "icon": "mdi-access-point"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Custom Operator Details",
+  "mf": "demf-custom-operator-details",
+  "api": "https://dme-api.avant.digital-enabler.eng.it/api/v3",
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it"
+}
